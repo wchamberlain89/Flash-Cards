@@ -1,0 +1,33 @@
+.clickable {
+  cursor: pointer;
+  color: #0088cc;
+}
+
+.clickable:hover {
+  text-decoration: underline;
+}
+
+#walrus-showing {
+  display: none;
+}
+
+.fade-in {
+  display: none;
+  background-color: red;
+}
+
+.fade-out {
+  background-color: blue;
+}
+
+.slide-container div {
+  height: 200px;
+  width: 200px;
+  text-align: center;
+  background-color: green;
+  float:left;
+}
+
+.slide-down {
+  display: none;
+}
