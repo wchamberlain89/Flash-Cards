@@ -15,7 +15,7 @@ $(document).ready(function() {
 
   $('.slide-down-btn').click(function(){
     $(".slide-down").slideDown("fast", function(){
-      $(".slide-down").css({"background-color" :"skyblue"});
+      $(".slide-down").css({"background-color" : "skyblue"});
     });
   });
 
